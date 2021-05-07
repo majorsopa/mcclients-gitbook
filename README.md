@@ -1,6 +1,8 @@
 ---
-description: majo sopa
+description: Index
 ---
 
-# Initial page
+# r/minecraftclients FAQ
+
+Here are the articles in this section:
 
