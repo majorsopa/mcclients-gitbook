@@ -1,5 +1,5 @@
 ---
-description: test
+description: majo sopa
 ---
 
 # Initial page
